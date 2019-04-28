@@ -1,0 +1,21 @@
+.randstad-nav-logo .randstad-logo {
+	width: 300px;
+	height: 150px;
+}
+
+
+.randstad-job-nav li {
+	display: inline-block;
+}
+.jobs-options a{
+	font-size: 18px;
+	color: rgb(211,211,211);
+	text-decoration: none;
+	padding: 20px;
+}
+
+.randstad-job-nav {
+	display: flex;
+	justify-content: space-between;
+	vertical-align: bottom;
+}
