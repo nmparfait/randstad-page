@@ -16,6 +16,6 @@
 
 .randstad-job-nav {
 	display: flex;
-	justify-content: space-between;
+	/*justify-content: space-between;*/
 	vertical-align: bottom;
 }
